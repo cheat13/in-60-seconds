@@ -13,6 +13,10 @@ Hello World!
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
+@snap[north span-50]
+## Hello World
+@snapend
+
 @snap[west span-50]
 ## Customize the Layout
 @snapend
